@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1629018833 source:c:\users\abhishek patil\desktop\cricket game\main.cpp
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+
